@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1920 1080" style="enable-background:new 0 0 1920 1080;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#74B87B;}
+	.st1{fill:#3AB14A;}
+	.st2{fill:#C1E6EC;}
+	.st3{fill:#7E8787;}
+	.st4{fill:#F9B49E;}
+	.st5{fill:#F1EC77;}
+	.st6{fill:#141E12;}
+	.st7{fill:#FFFFFF;}
+	.st8{fill:#C6832A;}
+	.st9{fill:#F6A2B5;}
+	.st10{fill:#060707;}
+	.st11{fill:#FFE6C5;}
+	.st12{fill:#A91E22;}
+	.st13{fill:#9D742B;}
+	.st14{fill:#278A43;}
+	.st15{fill:#4A9949;}
+</style>
+<rect id="fields" y="590" class="st0" width="1920" height="490"/>
+<g id="grasses">
+	<g id="grass">
+		<polygon id="grass1" class="st1" points="122,1080 133,1042 122,982 157,1042 157,1080 		"/>
+	</g>
+</g>
+<g id="megh_4_">
+	<polygon id="megh_1st" class="st2" points="419.7,146.7 326.8,174.2 233.9,146.7 233.9,91.6 326.8,64.1 419.7,91.6 	"/>
+	<polygon id="megh_2nd" class="st2" points="802.8,201.7 709.9,229.3 617,201.7 617,146.7 709.9,119.1 802.8,146.7 	"/>
+	<polygon id="megh_3rd" class="st2" points="1197.9,146.7 1105,174.2 1012.1,146.7 1012.1,91.6 1105,64.1 1197.9,91.6 	"/>
+	<polygon id="megh_last" class="st2" points="1601.4,201.7 1508.5,229.3 1415.6,201.7 1415.6,146.7 1508.5,119.1 1601.4,146.7 	"/>
+</g>
+<g id="tom">
+	<polygon id="body_1_" class="st3" points="498.4,773.9 409,797.1 344.1,731.3 368.7,642.3 458.1,619 523,684.8 	"/>
+	<polygon id="ears_1_" class="st4" points="428,679.8 391,692.7 361.3,667.2 368.6,628.7 405.6,615.8 435.3,641.3 	"/>
+	<polygon id="outer_eye_1_" class="st5" points="503.3,693.2 475.3,703 452.8,683.6 458.3,654.5 486.3,644.7 508.8,664 	"/>
+	<polygon id="eyeball_1_" class="st6" points="503.8,690.5 491.3,694.9 481.3,686.2 483.8,673.2 496.3,668.8 506.3,677.5 	"/>
+	<polygon id="mouth_1_" class="st7" points="506.3,748.6 440,734.7 447.5,716.4 512.9,732.5 	"/>
+	<polygon id="nose_1_" class="st6" points="516.3,729.7 503.8,734.1 493.8,725.5 496.3,712.4 508.8,708.1 518.8,716.7 	"/>
+</g>
+<g id="jerry">
+	<polygon id="body" class="st8" points="891.8,680.3 828.5,680.3 796.9,735.1 828.5,789.9 891.8,789.9 923.5,735.1 	"/>
+	<polygon id="ears" class="st9" points="840.5,674 816.8,674 805,694.5 816.8,715 840.5,715 852.3,694.5 	"/>
+	<polygon id="outer_eye" class="st7" points="891.8,689.3 872,689.3 862.1,706.5 872,723.6 891.8,723.6 901.7,706.5 	"/>
+	<polygon id="eyeball" class="st10" points="892.6,699.1 884.2,699.1 879.9,706.5 884.2,713.8 892.6,713.8 896.9,706.5 	"/>
+	<polygon id="mouth" class="st11" points="915.3,730.8 894.1,730.8 883.5,749.2 894.1,767.6 915.3,767.6 926,749.2 	"/>
+	<polygon id="nose" class="st10" points="920.2,720.8 910.8,720.8 906.2,728.9 910.8,737 920.2,737 924.9,728.9 	"/>
+</g>
+<polygon id="block2" class="st12" points="1066.6,728.6 1100.9,748.8 1111.3,789.9 1056.5,789.9 "/>
+<g id="tree">
+	<polygon id="nicher_ongo_tree_er" class="st13" points="1196.5,530.1 1190.3,599.6 1216.8,599.6 1212.1,529.5 	"/>
+	<polygon id="green" class="st14" points="1243.9,531.7 1182,542.6 1141.7,494.5 1163.1,435.5 1225,424.6 1265.3,472.7 	"/>
+</g>
+<polygon id="road" class="st15" points="9.8,792.4 87.8,791.7 86.8,804.7 9.8,805.3 "/>
+</svg>
